@@ -4,7 +4,7 @@
 
  const router=jsonserver.router("db.json")
 
-  const middleware=jsonserver.defaults()
+  const middleware=jsonserver.defaults({noCors:true})
   const cors=require("cors")
   
   server.use(cors())
