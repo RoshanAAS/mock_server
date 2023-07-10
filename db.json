@@ -5,15 +5,14 @@
         "Student": "Roshan Kr Routh",
         "age": 25,
         "place": "Visakhapatnam",
-        "batch_name": "WEB-21",
-      
+        "batch_name": "WEB-21"
       },
       {
         "id": 2,
         "name": "suit",
         "age": 37,
         "place": "Vijayawada",
-        "batch_name": "WEB-18",
+        "batch_name": "WEB-18"
      
       },
       {
@@ -29,8 +28,7 @@
         "name": "Nrupul",
         "age": 37,
         "place": "Vijayawada",
-        "batch_name": "WEB-18",
-       
+        "batch_name": "WEB-18"
       }
       
     ]
